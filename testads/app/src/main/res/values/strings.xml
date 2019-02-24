@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">test ads</string>
+
+    <!-- =======================================================================================-->
+    <!--AdMob  test ids de prueba -->
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- =======================================================================================-->
+
+    <!-- Ids AdMob originales  de Edu -->
+    <string name="admob_app_id2">ca-app-pub-9225418691271315~1219197618</string>
+    <string name="admob_banner_unit_id2">ca-app-pub-9225418691271315/9024673042</string>
+    <string name="admob_interstitial_unit_id2">ca-app-pub-9225418691271315/1298226263</string>
+
+
+    <!-- Ids AdMob originales  de mios -->
+    <string name="admob_app_id3">ca-app-pub-7996295323800307~2579686955</string>
+    <string name="admob_banner_unit_id3">ca-app-pub-7996295323800307/9302197345</string>
+    <string name="admob_interstitial_unit_id3">ca-app-pub-7996295323800307/3934320594</string>
+
+
+</resources>

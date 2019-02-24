@@ -1,0 +1,137 @@
+{
+  "project_info": {
+    "project_number": "368875833412",
+    "firebase_url": "https://probandofirebae.firebaseio.com",
+    "project_id": "probandofirebae",
+    "storage_bucket": "probandofirebae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368875833412:android:a2d5b2f22627abc5",
+        "android_client_info": {
+          "package_name": "com.maugarciaf.testads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368875833412-4hkapfsgme45ft05q19tn7vf80nsiek8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BUMujdThvQ2gxilESUtN3_3IkajnxkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7996295323800307~2579686955"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368875833412:android:d41054d74f8974c7",
+        "android_client_info": {
+          "package_name": "com.maugarciaf.testnewilobascoplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368875833412-4hkapfsgme45ft05q19tn7vf80nsiek8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BUMujdThvQ2gxilESUtN3_3IkajnxkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368875833412:android:594e1721dc43d645",
+        "android_client_info": {
+          "package_name": "com.mauriciog.pruebawallpapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368875833412-4hkapfsgme45ft05q19tn7vf80nsiek8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BUMujdThvQ2gxilESUtN3_3IkajnxkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368875833412:android:2162a7b612d8c829",
+        "android_client_info": {
+          "package_name": "com.mauriciog.recetassv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368875833412-4hkapfsgme45ft05q19tn7vf80nsiek8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BUMujdThvQ2gxilESUtN3_3IkajnxkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7996295323800307~7239965474"
+    }
+  ],
+  "configuration_version": "1"
+}
